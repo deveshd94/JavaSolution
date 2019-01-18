@@ -1,0 +1,2 @@
+# JavaSolution
+Some Java Soluitons
